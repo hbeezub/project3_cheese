@@ -151,8 +151,8 @@ Line 44:  We can also compare a limited number of years.  Here is a data set for
 Line 45:  With fewer data points (only 3 years).  This graph is much less congested and easier to understand.<br />
 Line 46:  This data is best viewed as time series (line) graphs.  The Sales data can be plotted as a bar graph.  Again, we show a relatively steady demand.
 
-
-![alt text](https://github.com/hbeezub/project3_cheese/blob/master/45_bar.png)
+change
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/proj3_cheese_5.ipynb)
 
 ## Check out the Kaggle Kernel
 https://www.kaggle.com/hbeezub/
