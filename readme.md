@@ -132,26 +132,37 @@ Line 25:  The 2015 data.<br />
 Line 26:  The 2014 data<br />
 Line 27: We have the data broken into a few smaller chunks so we can take a look at the data.  This first graph shows why we needed to separate out the 'age.'  The multiple prices tied to the Week Ending Date don't give us a concise graph.<br />
 Line 28: The 2017 data based on sales; showing all 5 age lines.<br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/28_line_2017_sales.JPG)
 Line 29: The 2017 data based on moisture content; showing all 5 age lines.<br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/29_line_2017_moisture.JPG)
 Line 30: The 2017 data based on price; showing all 5 age lines.  If we compare these 3 preliminary graphs.  We notice that sales increase when the price is lowest.<br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/30_line_2017_price.JPG)
 Line 31: The 2016 graph shows some problems with the age data.  We're going to skip over this 2016 data for now.  More data cleaning for another project.<br />
 Line 32: The 2015 data based on sales; showing all 5 age lines.  This data has quite a few swings, so we'll increase our figure size to get a better look.<br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/32_line_2015_sales.JPG)
 Line 33: The 2015 data based on price; showing all 5 age lines.  Unlike the 2017 data, we don't see an increase in demand at a lower price.  <br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/33_line_2015_price.JPG)
 Line 34: Let's take the same look at the 2014 data. The 2014 sales.<br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/34_line_2014_sales.JPG)
 Line 35: The 2014 data based on price; showing all 5 age lines.  Again, we aren't seeing a correlation between price & sales volume.<br />
-the 36: 2017 price data, we don't see an increase in demand at a lower price.  The above graphs also show that the pricing (regardless of the age) follows the same trajectory.  <br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/35_line_2014_price.JPG)
+line 36: Unlike the 2017 price data, we don't see an increase in demand at a lower price.  The above graphs also show that the pricing (regardless of the age) follows the same trajectory.  <br />
 Line 37: We will take a different direction and look at the data by the age.  We will look at the 14 day old cheese data.  Index by the age and pull out all the 14 age. Again, this code looks pretty simple but it entailed many attempts to figure out how to get this.<br />
 Line 38: we'll check the shape of this data. <br />
 Line 39: This graph compares all the 14 day prices in our data set.  We see how those "zero" prices affect our graph.  <br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/39_line_14_day_price.JPG)
 Line 40: When we compare the sales for the 14 day cheddar we see a relatively steady demand over time.  <br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/40_line_14_day_sales.JPG)
 Line 41: Lets see if the 28-day cheddar shows us the same information.  We'll create a 28 day dataset.<br />
 Line 42: This graph compares all the 28 day prices in our data set.  Agin we see the drop with the "zero" prices.<br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/42_line_28_day_price.JPG)
 Line 43: This shows us what we would expect the same relatively steady demand over time for 28 day cheddar.  <br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/43_line_28_day.JPG)
 Line 44:  We can also compare a limited number of years.  Here is a data set for 14 day cheddar for 2013 to 2015.<br />
 Line 45:  With fewer data points (only 3 years).  This graph is much less congested and easier to understand.<br />
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/45_line_13_15.JPG)
 Line 46:  This data is best viewed as time series (line) graphs.  The Sales data can be plotted as a bar graph.  Again, we show a relatively steady demand.
 
-change
 ![alt text](https://github.com/hbeezub/project3_cheese/blob/master/45_bar.JPG)
 
 ## Check out the Kaggle Kernel
