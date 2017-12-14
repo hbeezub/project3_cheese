@@ -152,7 +152,7 @@ Line 45:  With fewer data points (only 3 years).  This graph is much less conges
 Line 46:  This data is best viewed as time series (line) graphs.  The Sales data can be plotted as a bar graph.  Again, we show a relatively steady demand.
 
 change
-![alt text](https://github.com/hbeezub/project3_cheese/blob/master/proj3_cheese_5.ipynb)
+![alt text](https://github.com/hbeezub/project3_cheese/blob/master/45_bar.JPG)
 
 ## Check out the Kaggle Kernel
 https://www.kaggle.com/hbeezub/
