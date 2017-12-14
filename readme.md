@@ -162,11 +162,10 @@ Line 44:  We can also compare a limited number of years.  Here is a data set for
 Line 45:  With fewer data points (only 3 years).  This graph is much less congested and easier to understand.<br />
 ![alt text](https://github.com/hbeezub/project3_cheese/blob/master/45_line_13_15.JPG)
 Line 46:  This data is best viewed as time series (line) graphs.  The Sales data can be plotted as a bar graph.  Again, we show a relatively steady demand.
-
 ![alt text](https://github.com/hbeezub/project3_cheese/blob/master/45_bar.JPG)
 
 ## Check out the Kaggle Kernel
-https://www.kaggle.com/hbeezub/
+https://www.kaggle.com/hbeezub/dairy-prices
                                      
 ## License
 none
